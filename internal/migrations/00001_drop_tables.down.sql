@@ -1,0 +1,2 @@
+DELETE TABLE IF EXISTS wallets;
+DELETE TABLE IF EXISTS operations;
